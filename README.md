@@ -22,4 +22,5 @@ git clone git@github.com:HumorZhang/springboot-CRUD.git
 localhost：8080/druid
 
 ![Image text](https://github.com/HumorZhang/springboot-CRUD/blob/master/src/1.png)
+![Image text](https://github.com/HumorZhang/springboot-CRUD/blob/master/src/2.png)
 
