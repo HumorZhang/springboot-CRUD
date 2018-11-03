@@ -21,5 +21,5 @@ git clone git@github.com:HumorZhang/springboot-CRUD.git
 数据源管理：
 localhost：8080/druid
 
-https://github.com/HumorZhang/springboot-CRUD/blob/master/src/1.png
+![Image text](https://github.com/HumorZhang/springboot-CRUD/blob/master/src/1.png)
 
